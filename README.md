@@ -13,6 +13,8 @@ Esse é um projeto para praticar elementos básicos no HTML5:
  - Caracteres especiais (entities)
 
 Observação: Este projeto esta estruturado em forma de tabela mesmo não sendo uma boa prática ou ate mesmo recomendado. É apenas para fins de estudo dos elementos HTML. 🙂
+<br>
+[Clique para ver o projeto](https://mariameir.github.io/projeto-unes/)
 
 ![Webp net-gifmaker](https://user-images.githubusercontent.com/52001215/152083374-a07ea6eb-84fd-4fbd-a835-3c1d747dd95e.gif)
 
